@@ -1,0 +1,5 @@
+#+TITLE: Readme
+
+* Lamby Origins
+
+This is a quick and dirty Bitsy game that I made on a single day.
